@@ -23,7 +23,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Welcome to **DOLab (Data Optimization Lab)**! I am **Dohee Kim**, an Assistant Professor in the Department of Artificial Intelligence Convergence Engineering at Changwon National University.
+Welcome to **DOLab (Data Optimization Lab)**! I am **Dohee Kim**, an Assistant Professor in the Department of Artificial Intelligence Engineering at Changwon National University.
 
 Our lab focuses on developing **data-driven optimization** methodologies to solve complex real-world problems. Key research areas include:
 - Time Series Analysis 
