@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-02'
+  last_updated: '2026-04-13'
 papers:
   L6k7jvIAAAAJ:1sJd4Hv_s6UC:
-    citations: 1
+    citations: 2
     title: Multi-task Trained Graph Neural Network for Business Process Anomaly Detection with a Limited Number of Labeled Anomalies
     year: '2025'
   L6k7jvIAAAAJ:2P1L_qKh6hAC:
@@ -74,7 +74,7 @@ papers:
     title: Container volume prediction using time-series decomposition with a long short-term memory models
     year: '2021'
   L6k7jvIAAAAJ:KxtntwgDAa4C:
-    citations: 1
+    citations: 3
     title: Deep learning framework for regional maritime collision risk assessment using CNN and Grad-CAM
     year: '2026'
   L6k7jvIAAAAJ:LkGwnXOMwfcC:
@@ -121,8 +121,12 @@ papers:
     citations: 0
     title: "\uBC8C\uD06C\uD56D\uB9CC\uC758 \uD558\uC5ED \uCD5C\uC801\uD654\uB97C \uC704\uD55C \uC815\uC218\uACC4\uD68D\uBAA8\uD615"
     year: '2022'
+  L6k7jvIAAAAJ:Tiz5es2fbqcC:
+    citations: 0
+    title: Legacy Learning Strategy Based on Few-Shot Font Generation Models for Automatic Text Design in Metaverse Content
+    year: '2024'
   L6k7jvIAAAAJ:Tyk-4Ss8FVUC:
-    citations: 5
+    citations: 6
     title: Prediction of the quay crane's handling time with external handling factors
     year: '2021'
   L6k7jvIAAAAJ:UeHWp8X0CEIC:
@@ -141,6 +145,10 @@ papers:
     citations: 2
     title: Improving time-series classification accuracy based on temporal feature representation learning using CRU-LSTM autoencoder
     year: '2023'
+  L6k7jvIAAAAJ:XiSMed-E-HIC:
+    citations: 0
+    title: Legacy Learning Strategy Based on Few-Shot Font Generation Models for Automatic Text Design
+    year: '2026'
   L6k7jvIAAAAJ:YFjsv_pBGBYC:
     citations: 1
     title: Estimating container dwell time and forecasting port congestion using bayesian network
@@ -194,7 +202,7 @@ papers:
     title: Method and apparatus for predicting recipe property reflecting similarity between chemical materials
     year: '2024'
   L6k7jvIAAAAJ:f2IySw72cVMC:
-    citations: 3
+    citations: 5
     title: "Long\u2010term forecasting of maritime economics index using time\u2010series decomposition and two\u2010stage attention"
     year: '2025'
   L6k7jvIAAAAJ:fPk4N6BV_jEC:
